@@ -24,6 +24,11 @@
             <version>0.3</version>
         </dependency>
         <dependency>
+            <groupId>org.funktionale</groupId>
+            <artifactId>funktionale</artifactId>
+            <version>0.9.5</version>
+        </dependency>
+        <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-test</artifactId>
             <version>${kotlin.version}</version>
